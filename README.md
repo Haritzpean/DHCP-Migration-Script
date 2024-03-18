@@ -3,8 +3,9 @@
 Ce script PowerShell facilite la migration de la configuration DHCP d'un serveur source vers un serveur de destination.  
 Il permet d'exporter les paramètres DHCP d'un serveur source vers un fichier XML, puis de les importer vers un serveur de destination, assurant ainsi une migration en douceur de la configuration DHCP d'un serveur à un autre.
 
-1. Exécutez le script Migrer-DHCPServer.ps1 à l'aide de PowerShell : `.\Migrer-DHCPServer.ps1`
+1. Exécutez le script Migrer-DHCPServer.ps1 à l'aide de PowerShell : `.\DHCP_migration.ps1`
 2. Suivez les instructions à l'écran pour saisir le nom ou l'adresse IP du serveur DHCP source et effectuer la migration.
+
 
 ## Prérequis
 
